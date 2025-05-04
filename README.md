@@ -5,54 +5,44 @@
   <p><em>"First solve the problem. Then, write the code." — John Johnson</em></p>
 </div>
 
+---
+
 ## 🌟 Repository Overview
-This repository contains the work I’ve done over the course of my DSA Lab – from classic linked lists to powerful graph algorithms
+
+This repository captures my lab work and exploration in Data Structures & Algorithms using C++. From writing the first array sort to exploring graphs and their powerful algorithms, this is my hands-on journey through core computational concepts.
 
 ---
 
 ## 📌 Why C++ for DSA?
 
-C++ is fast, powerful, and precise — everything you need when solving problems that rely on performance and memory control. With Standard Template Library (STL), pointers, and fine-grained data control, C++ gives you a strong foundation to implement real-world DSA solutions and understand what’s happening under the hood.
+C++ is fast, powerful, and precise — everything you need when solving problems that rely on performance and memory control. Its Standard Template Library (STL), pointers, and system-level control make it a strong tool to implement real-world DSA solutions and understand what’s happening under the hood.
 
 ---
 
 ## 🧠 What Are Computational Problems?
 
-Computational problems are the "what" behind most of computer science — how to store data, retrieve it, sort it, traverse it, and make decisions based on it. Whether it's finding the shortest path, matching patterns, or optimizing resources, every problem can be broken down into smaller logical steps. DSA is the toolkit we use to build those solutions efficiently and effectively.
-
-
-```mermaid
-journey
-    title My DSA Learning Path
-    section Fundamentals
-      Arrays: 5: Done
-      Linked Lists: 5: Done
-    section Intermediate
-      Trees: 5: Done
-      Graphs: 4: Done
-    section Advanced
-      Algorithm Design: 3: In Progress
-
-graph TD
-    A[Lab 1: Arrays] --> B[Lab 5: Linked Lists]
-    B --> C[Lab 6: Stack LL]
-    C --> D[Lab 7: Queue LL]
-    D --> E[Lab 8: Binary Trees]
-    E --> F[Lab 9: BST]
-    F --> G[Lab 11: Hash Tables]
-    G --> H[Lab 12: Graphs]
-
-📚 Lab Catalog
-
-Lab	Topic	Key Concepts	Difficulty
-01	Arrays	Sorting, Searching	⭐
-05	Linked Lists	SLL, DLL, Circular	⭐⭐
-09	BST	Insertion, Deletion	⭐⭐⭐
-12	Graphs	Dijkstra, Prim, Kruskal	⭐⭐⭐⭐
+Computational problems are the challenges computers solve by processing data logically and efficiently. Whether it's finding the shortest route between two cities, matching text patterns, or balancing loads — every solution requires smart data organization and algorithmic strategies. DSA is the toolbox we use to crack these problems in optimal time and space.
 
 ---
-Feel free to explore the repository, clone it for your own practice, or star it if you find it helpful.
-Contributions and feedback are always welcome.
 
+## 📚 Lab Catalog
 
+| Lab | Topic               | Key Concepts                        | Difficulty |
+|-----|---------------------|-------------------------------------|------------|
+| 01  | Arrays              | Sorting, Searching                  | ⭐          |
+| 02  | Structures          | Pointers, Structs                   | ⭐          |
+| 03  | Stack (Array)       | Infix to Postfix, Evaluation        | ⭐⭐         |
+| 04  | Queue (Array)       | Circular Queue                      | ⭐⭐         |
+| 05  | Linked Lists        | SLL, DLL, Circular LL               | ⭐⭐         |
+| 06  | Stack (Linked List) | Dynamic Stack                       | ⭐⭐         |
+| 07  | Queue (Linked List) | Dynamic Queue                       | ⭐⭐         |
+| 08  | Trees               | Traversals: Pre, In, Post           | ⭐⭐         |
+| 09  | BST                 | Insert, Delete, Search              | ⭐⭐⭐        |
+| 10  | AVL Trees           | Rotations, Balancing                | ⭐⭐⭐        |
+| 11  | Graphs (Rep)        | Adjacency List & Matrix             | ⭐⭐⭐        |
+| 12  | Graph Algorithms    | Dijkstra, Prim, Kruskal             | ⭐⭐⭐⭐       |
 
+---
+
+Feel free to fork, clone, or star ⭐ this repository if you find it useful.  
+Suggestions and contributions are always welcome!
