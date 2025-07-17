@@ -42,7 +42,3 @@ Computational problems are the challenges computers solve by processing data log
 | 11  | Graphs (Rep)        | Adjacency List & Matrix             | ⭐⭐⭐        |
 | 12  | Graph Algorithms    | Dijkstra, Prim, Kruskal             | ⭐⭐⭐⭐       |
 
----
-
-Feel free to fork, clone, or star ⭐ this repository if you find it useful.  
-Suggestions and contributions are always welcome!
